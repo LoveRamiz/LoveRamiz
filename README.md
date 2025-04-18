@@ -1,4 +1,4 @@
-- 👋 #LoveRamiz
+-👋 I am LoveRamiz
 
 🎓 BCA Student  
 🧠 Learning AI & ML  
