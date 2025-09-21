@@ -1,4 +1,4 @@
--👋 I am LoveRamiz
+-👋 I am Ramiz Raza Mollick 
 
 🎓 BCA Student  
 🧠 Learning AI & ML  
