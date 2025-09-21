@@ -3,7 +3,7 @@
 🎓 BCA Student  
 🧠 Learning AI & ML  
 🤖 Building skills in Machine Learning & Real-world AI  
-📍 Interning in AI + UML  
+📍 Interning in AI +ML
 
 *Keep it simple. Make it real.*
 
